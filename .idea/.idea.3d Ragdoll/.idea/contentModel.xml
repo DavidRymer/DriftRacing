@@ -8,24 +8,6 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="AddPhysics.cs" t="Include" />
-        <e p="EasyRoads3D" t="Include">
-          <e p="_readme .txt" t="Include" />
-          <e p="_Release Notes.txt" t="Include" />
-          <e p="prefab meshes" t="Include">
-            <e p="_custom prefabs.txt" t="Include" />
-          </e>
-          <e p="prefab sources" t="Include">
-            <e p="_custom prefabs.txt" t="Include" />
-          </e>
-          <e p="shaders" t="Include">
-            <e p="EasyRoads3D - Unity 5 Standard.shader" t="Include" />
-            <e p="EasyRoads3D - Unity 5 StandardSpecular.shader" t="Include" />
-            <e p="EasyRoads3D - Unity Standard 2018.shader" t="Include" />
-            <e p="EasyRoads3D-Road-Edit-Mode.shader" t="Include" />
-            <e p="EasyRoads3D-Surface-Offset.shader" t="Include" />
-          </e>
-        </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
             <e p="Code" t="Include">
@@ -359,9 +341,11 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AddPhysics.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="PhotonManager.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="RaceController.cs" t="Include" />
         </e>
         <e p="Smooth Sync" t="Include">
           <e p="Common" t="Include">
